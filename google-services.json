@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110034215776",
+    "firebase_url": "https://dinnkexpo.firebaseio.com",
+    "project_id": "dinnkexpo",
+    "storage_bucket": "dinnkexpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110034215776:android:d857fe0e0f847751d2f405",
+        "android_client_info": {
+          "package_name": "com.dinnk.dinnk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110034215776-ptgpbtkc367e6m95tq2aqisl1uim1jmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-afQ9rpHy4PqvJqmf08VtJ4fjxxxuSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110034215776-ptgpbtkc367e6m95tq2aqisl1uim1jmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
